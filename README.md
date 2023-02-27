@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 프로젝트
+1. ㅈㄷ사ㅣㅓ
+
+
+
+### 알고리즘
+### CS
