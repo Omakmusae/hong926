@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ### 프로젝트
 1. ㅈㄷ사ㅣㅓ
 
+### [자료구조](https://gist.github.com/hong926/30af3632deeb0411f49307ca4d89c55e)
 
 
 ### 알고리즘
